@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { FaArrowDown } from 'react-icons/fa';
 
-const name = "SELVAM M S";
+const name = "SELVAM    M S";
 const roles = ["Graphic Designer", "Web Designer & Developer", "UI/UX Designer", "Digital Marketer"];
 
 const nameVariants = {
